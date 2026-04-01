@@ -1,5 +1,3 @@
-// credits : kasan
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Xyon%20Jadibot&fontSize=80&fontAlignY=35&desc=Ubah%20Nomor%20WhatsApp%20Kamu%20Menjadi%20Bot%20Profesional!&descAlignY=55&descAlign=50" alt="Header Xyon">
 
